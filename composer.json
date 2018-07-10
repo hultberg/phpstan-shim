@@ -1,5 +1,5 @@
 {
-	"name": "phpstan/phpstan-shim",
+	"name": "hultberg/phpstan-shim",
 	"description": "PHPStan Phar distribution",
 	"license": ["MIT"],
 	"require": {
