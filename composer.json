@@ -6,7 +6,8 @@
 		"php": "~7.1"
 	},
 	"replace": {
-		"phpstan/phpstan": "self.version"
+		"phpstan/phpstan": "self.version",
+		"phpstan/phpdoc-parser": "^0.3"
 	},
 	"bin": [
 		"phpstan",
